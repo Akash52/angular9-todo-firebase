@@ -6,10 +6,6 @@ footer{
     padding-top: 30px;
     padding-bottom: 20px;
     
-   
-    -webkit-box-shadow: 10px 10px 35px 10px rgba(71,114,254,0.3);
--moz-box-shadow: 10px 10px 35px 10px rgba(71,114,254,0.3);
-box-shadow: 10px 10px 35px 10px rgba(71,114,254,0.3);
 }
 
 h6{
