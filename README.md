@@ -1,6 +1,6 @@
 <p align="center">
 
-<h3 align="center">Project Title</h3>
+<h2 align="center">Project Title</h2>
 
 <div align="center">
 
